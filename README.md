@@ -1,3 +1,2 @@
 # hello-world
-"This repository is for practicing the GitHub Flow." 
-welcome to github
+"This repository is for practicing the GitHub Flow."
